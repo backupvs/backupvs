@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @bacckup
-- 👀 I’m interested in Golang and Web Programming
+- 👋 Hi, I’m Dmitry Holubev
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Golang
-- 📫 How to reach me dmitryholubev@gmail.com
-
+- 💬 Telegram: https://t.me/bkp_h1
+- 📫 E-mail: dmitryholubev@gmail.com
+- 📄 Linkedin: www.linkedin.com/in/dmitry-holubev
